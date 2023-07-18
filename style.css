@@ -1,0 +1,116 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(135,133,135,1.00) 10.88%,rgba(195,192,196,1.00) 21.76%,rgba(255,255,255,1.00) 39.37%,rgba(245,244,246,1.00) 56.48%,rgba(244,244,244,1.00) 67.87%,rgba(110,103,114,1.00) 90.16%);
+    background-image: -moz-linear-gradient(270deg,rgba(135,133,135,1.00) 10.88%,rgba(195,192,196,1.00) 21.76%,rgba(255,255,255,1.00) 39.37%,rgba(245,244,246,1.00) 56.48%,rgba(244,244,244,1.00) 67.87%,rgba(110,103,114,1.00) 90.16%);
+    background-image: -o-linear-gradient(270deg,rgba(135,133,135,1.00) 10.88%,rgba(195,192,196,1.00) 21.76%,rgba(255,255,255,1.00) 39.37%,rgba(245,244,246,1.00) 56.48%,rgba(244,244,244,1.00) 67.87%,rgba(110,103,114,1.00) 90.16%);
+    background-image: linear-gradient(180deg,rgba(135,133,135,1.00) 10.88%,rgba(195,192,196,1.00) 21.76%,rgba(255,255,255,1.00) 39.37%,rgba(245,244,246,1.00) 56.48%,rgba(244,244,244,1.00) 67.87%,rgba(110,103,114,1.00) 90.16%);
+}
+.container .row .container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(208,199,201,1.00) 0%,rgba(224,219,224,1.00) 30.05%,rgba(227,222,228,1.00) 87.05%,rgba(212,207,213,1.00) 94.82%,rgba(208,201,201,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(208,199,201,1.00) 0%,rgba(224,219,224,1.00) 30.05%,rgba(227,222,228,1.00) 87.05%,rgba(212,207,213,1.00) 94.82%,rgba(208,201,201,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(208,199,201,1.00) 0%,rgba(224,219,224,1.00) 30.05%,rgba(227,222,228,1.00) 87.05%,rgba(212,207,213,1.00) 94.82%,rgba(208,201,201,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(208,199,201,1.00) 0%,rgba(224,219,224,1.00) 30.05%,rgba(227,222,228,1.00) 87.05%,rgba(212,207,213,1.00) 94.82%,rgba(208,201,201,1.00) 100%);
+}
+.container .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(200,251,238,1.00) 0%,rgba(208,243,251,1.00) 17.61%,rgba(223,255,253,0.92) 40.93%,rgba(220,241,252,0.97) 60.10%,rgba(174,247,224,0.93) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(200,251,238,1.00) 0%,rgba(208,243,251,1.00) 17.61%,rgba(223,255,253,0.92) 40.93%,rgba(220,241,252,0.97) 60.10%,rgba(174,247,224,0.93) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(200,251,238,1.00) 0%,rgba(208,243,251,1.00) 17.61%,rgba(223,255,253,0.92) 40.93%,rgba(220,241,252,0.97) 60.10%,rgba(174,247,224,0.93) 100%);
+    background-image: linear-gradient(180deg,rgba(200,251,238,1.00) 0%,rgba(208,243,251,1.00) 17.61%,rgba(223,255,253,0.92) 40.93%,rgba(220,241,252,0.97) 60.10%,rgba(174,247,224,0.93) 100%);
+    -webkit-box-shadow: 0px 2px 10px #FFF9F9;
+    box-shadow: 0px 2px 10px #FFF9F9;
+    border-radius: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    letter-spacing: 2px;
+    text-shadow: 0px 0px;
+    text-align: center;
+    line-height: normal;
+    font-weight: bold;
+    border-width: thin;
+    border-style: groove;
+    top: 2px;
+}
+.container-fluid .container #carouselExampleIndicators1 {
+    background-image: -webkit-linear-gradient(270deg,rgba(165,186,191,1.00) 0%,rgba(233,241,244,1.00) 32.64%,rgba(225,245,249,1.00) 51.29%,rgba(223,244,249,1.00) 77.72%,rgba(167,188,192,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(165,186,191,1.00) 0%,rgba(233,241,244,1.00) 32.64%,rgba(225,245,249,1.00) 51.29%,rgba(223,244,249,1.00) 77.72%,rgba(167,188,192,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(165,186,191,1.00) 0%,rgba(233,241,244,1.00) 32.64%,rgba(225,245,249,1.00) 51.29%,rgba(223,244,249,1.00) 77.72%,rgba(167,188,192,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(165,186,191,1.00) 0%,rgba(233,241,244,1.00) 32.64%,rgba(225,245,249,1.00) 51.29%,rgba(223,244,249,1.00) 77.72%,rgba(167,188,192,1.00) 100%);
+    -webkit-box-shadow: 0 5px 5px;
+    box-shadow: 0 5px 5px;
+    border: thin groove #FFFFFF;
+    border-radius: 9px;
+    text-shadow: 0px 0px 5px #FFFFFF;
+    visibility: visible;
+    overflow-y: visible;
+    overflow-x: visible;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-top: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    list-style-type: none;
+    top: 10px;
+    left: auto;
+    opacity: 1;
+    z-index: auto;
+    border-spacing: 5px 5px;
+}
+#navbarSupportedContent1 .navbar-nav.mr-auto .nav-item.active {
+    border: 0.5px ridge #FFFFFF;
+    border-radius: 3px;
+    border-spacing: 2px 2px;
+    -webkit-box-shadow: 0px 2px #FCFCFC;
+    box-shadow: 0px 2px #FCFCFC;
+    background-color: #FCFCFC;
+}
+.container .row .container-fluid {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    border: thin ridge #85FFFD;
+    border-radius: 7px;
+    border-spacing: 7px 7px;
+    -webkit-box-shadow: 0px 3px #F2FDFF;
+    box-shadow: 0px 3px #F2FDFF;
+}
+.container-fluid .container article {
+}
+.container article p {
+    display: block;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    margin-right: 3px;
+    float: left;
+    border-width: thick;
+    color: #3D1D01;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-indent: 0;
+    text-shadow: 0px 0px;
+    text-transform: capitalize;
+    letter-spacing: 0;
+    word-spacing: 2px;
+    list-style-type: none;
+}
+.container-fluid .container .container5 {
+    background-image: -webkit-linear-gradient(270deg,rgba(195,196,196,1.00) 0%,rgba(235,240,240,1.00) 38.86%,rgba(231,237,237,1.00) 60.11%,rgba(200,201,201,1.00) 90.67%);
+    background-image: -moz-linear-gradient(270deg,rgba(195,196,196,1.00) 0%,rgba(235,240,240,1.00) 38.86%,rgba(231,237,237,1.00) 60.11%,rgba(200,201,201,1.00) 90.67%);
+    background-image: -o-linear-gradient(270deg,rgba(195,196,196,1.00) 0%,rgba(235,240,240,1.00) 38.86%,rgba(231,237,237,1.00) 60.11%,rgba(200,201,201,1.00) 90.67%);
+    background-image: linear-gradient(180deg,rgba(195,196,196,1.00) 0%,rgba(235,240,240,1.00) 38.86%,rgba(231,237,237,1.00) 60.11%,rgba(200,201,201,1.00) 90.67%);
+}
+.container .container5 .img-fluid.img-thumbnail {
+    border-radius: 7px;
+    margin-right: 5px;
+    margin-left: 5%;
+}
